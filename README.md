@@ -9,7 +9,7 @@ En este repositorio será publicado el desarrollo del proyecto requerido para el
 - MongoDb
 - Node.Js
 - Express
-- React JS
+- React JS (Frontend)
 
 ## Participantes del proyecto
 El equipo se llama NUKAK y está conformado por: 
